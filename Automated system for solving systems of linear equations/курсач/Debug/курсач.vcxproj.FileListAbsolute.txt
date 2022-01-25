@@ -1,0 +1,15 @@
+C:\Users\yaros\Desktop\курсач\курсач\курсач\Debug\курсач.MyForm.resources
+C:\Users\yaros\Desktop\курсач\курсач\курсач\Debug\курсач.vcxproj.GenerateResource.cache
+C:\Users\yaros\Desktop\курсач\курсач\курсач\Debug\курсач.vcxprojAssemblyReference.cache
+C:\Users\yaros\Desktop\курсач\5\курсач\курсач\Debug\курсач.vcxprojAssemblyReference.cache
+C:\Users\yaros\Desktop\курсач\5\курсач\курсач\Debug\курсач.MyForm.resources
+C:\Users\yaros\Desktop\курсач\5\курсач\курсач\Debug\курсач.vcxproj.GenerateResource.cache
+C:\Users\yaros\Desktop\курсач\5\курсач — копия\курсач\Debug\курсач.vcxprojAssemblyReference.cache
+C:\Users\yaros\Desktop\курсач\5\курсач — копия\курсач\Debug\курсач.MyForm.resources
+C:\Users\yaros\Desktop\курсач\5\курсач — копия\курсач\Debug\курсач.vcxproj.GenerateResource.cache
+C:\Users\yaros\Desktop\курсач\курсач — копия\курсач\Debug\курсач.vcxprojAssemblyReference.cache
+C:\Users\yaros\Desktop\курсач\курсач — копия\курсач\Debug\курсач.MyForm.resources
+C:\Users\yaros\Desktop\курсач\курсач — копия\курсач\Debug\курсач.vcxproj.GenerateResource.cache
+C:\Users\Artem\Desktop\курсач — копия\курсач\Debug\курсач.vcxproj.AssemblyReference.cache
+C:\Users\Artem\Desktop\курсач — копия\курсач\Debug\курсач.MyForm.resources
+C:\Users\Artem\Desktop\курсач — копия\курсач\Debug\курсач.vcxproj.GenerateResource.cache

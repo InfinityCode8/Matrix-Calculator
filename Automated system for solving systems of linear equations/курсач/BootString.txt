@@ -1,0 +1,4 @@
+Error!!! detA = 0, the matrix is not solved 
+detA = |     0     0     |
+            |     0     0     |  = 0*0 - 0*0 = 0
+

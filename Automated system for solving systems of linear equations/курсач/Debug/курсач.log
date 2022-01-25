@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+C:\Users\Artem\Desktop\курсач — копия\курсач\MyForm.h(515,41): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Artem\Desktop\курсач — копия\курсач\MyForm.h(518,24): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\Artem\Desktop\курсач — копия\курсач\MyForm.h(1396,36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Artem\Desktop\курсач — копия\курсач\MyForm.h(1416,36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Artem\Desktop\курсач — копия\курсач\MyForm.h(1425,36): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  курсач.vcxproj -> C:\Users\Artem\Desktop\курсач — копия\Debug\курсач.exe
